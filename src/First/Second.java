@@ -13,4 +13,8 @@ public class Second {
     public void m(String s){
         System.out.println ("tir method");
     }
+
+    public void d(double t){
+
+    }
 }
