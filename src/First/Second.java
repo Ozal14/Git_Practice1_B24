@@ -16,6 +16,8 @@ public class Second {
 
     public void d(double t){
 
+        System.out.println ("5");
+        m();
 
     }
 }
