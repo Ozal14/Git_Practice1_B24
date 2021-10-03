@@ -16,5 +16,6 @@ public class Second {
 
     public void d(double t){
 
+
     }
 }
